@@ -10,14 +10,14 @@
 
 - 💬 Ask me about **Programming language developer**
 
-- 📫 How to reach me **Makerzid@gmail.com**
+- 📫 How to reach me **Makerz@hotmail.com**
 
 - 📄 Know about my experiences [Full stack developer and IT professional with over 4 years of experience](Full stack developer and IT professional with over 4 years of experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/c4psl0ckz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/c4psl0ckz" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/c4psl0cks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/c4psl0cks" height="30" width="40" /></a>
+<a href="https://codepen.io/c4psl0ckz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="c4psl0ckz" height="30" width="40" /></a>
+<a href="https://dev.to/c4psl0cks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="c4psl0cks" height="30" width="40" /></a>
 <a href="https://twitter.com/devcodings_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devcodings_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14166319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14166319" height="30" width="40" /></a>
 <a href="https://medium.com/@chanokwongthinpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chanokwongthinpa" height="30" width="40" /></a>

@@ -1,5 +1,5 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
-<h1 align="center">Hi 👋, I'm Max</h1>
+<h1 align="center">Hi 👋, I'm Makerz</h1>
 
 Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here you go !!</a>
 
@@ -9,14 +9,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <b>Welcome !! </b><br/>
 Some things about me :<br/>
 :one: Programming language developer<br/>
-:two: Full stack developer and IT professional with over 10 years of experience.<br/>
+:two: Full stack developer and IT professional with over 4 years of experience.<br/>
 :three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
 :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
-:five: I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
-:six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
-:seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maxbasecode%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
-:eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
-:nine: Fun fact : Have been developing software for most part of my life
+
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)

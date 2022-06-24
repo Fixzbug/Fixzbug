@@ -31,7 +31,7 @@
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/C4psL0cks?tab=repositories)
 
-<a href="https://github.com/C4psL0cks?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=basemax&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
+<a href="https://github.com/C4psL0cks?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=C4psL0cks&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/C4psL0cks?tab=repositories)

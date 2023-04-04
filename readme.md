@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Programming language developer**
 
-- 📫 How to reach me **Makerz@hotmail.com**
+- 📫 How to reach me **Makerz03795@hotmail.com**
 
 - 📄 Know about my experiences [Full stack developer and IT professional with over 4 years of experience](Full stack developer and IT professional with over 4 years of experience)
 

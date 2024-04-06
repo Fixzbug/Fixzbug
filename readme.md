@@ -69,20 +69,20 @@ Additional Abilities
     Car painting 2K
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/C4psL0cks?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
-<a href="https://github.com/C4psL0cks?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=C4psL0cks&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
+<a href="https://github.com/Fixzbug?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=Fixzbug&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/C4psL0cks?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=C4psL0cks&show_icons=true&locale=en" alt="basemax">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fixzbug&show_icons=true&locale=en" alt="basemax">
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/c4psl0ckz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="c4psl0ckz" height="30" width="40" /></a>
-<a href="https://dev.to/c4psl0cks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="c4psl0cks" height="30" width="40" /></a>
+<a href="https://dev.to/Fixzbug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Fixzbug" height="30" width="40" /></a>
 <a href="https://twitter.com/devcodings_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devcodings_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14166319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14166319" height="30" width="40" /></a>
 <a href="https://medium.com/@chanokwongthinpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chanokwongthinpa" height="30" width="40" /></a>

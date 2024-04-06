@@ -28,25 +28,30 @@ FRONT-END
     Jquery
 
 BACK-END
+
     PHP
     Node.js
     TypeScrtip 
 
 DATABASE 
+
     MongoDB
     MYSQL 
 
 MOBILE APP
+
     ionic framework Cross Platfrom 
     (Vue.js Base Augular)
     Android, iOS
 
 NETWORK SKILLS
+
     Config Router
     Switch 
     Design LAN/WAN Wi-Fi
 
 EMBEDDED SKILLS
+
     C, C++, C#, Python, VB 
     PCB Design, Solidwork 3D CAD
     CAN-BUS,  RS485, RS232, Basic PLC
@@ -56,6 +61,7 @@ EMBEDDED SKILLS
     MQTT 
 
 DEVOPS
+
     GitHub, Gitlab 
     Google cloud, AWS digitalOcean
     Firebase
@@ -64,6 +70,7 @@ DEVOPS
     LINE DEV 
 
 Additional Abilities
+
     Guitar, Base 
     Welding steel MMA TIG MIG
     Car painting 2K

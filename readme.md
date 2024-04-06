@@ -14,6 +14,59 @@
 
 - 📄 Know about my experiences [Full stack developer and IT professional with over 4 years of experience](Full stack developer and IT professional with over 4 years of experience)
 
+- SKILL 
+
+FRONT-END
+
+    Vue.js
+    Angular
+    React js
+    HTML 5
+    CSS (Bootstrap 4,5)
+    Sass 
+    JavaScript 
+    Jquery
+
+BACK-END
+    PHP, 
+    Node.js, 
+    TypeScrtip 
+
+DATABASE 
+    MongoDB, 
+    MYSQL 
+
+MOBILE APP
+    ionic framework Cross Platfrom 
+    (Vue.js Base Augular)
+    Android, iOS
+
+NETWORK SKILLS
+    Config Router, Switch 
+    Design LAN/WAN Wi-Fi
+
+EMBEDDED SKILLS
+    C, C++, C#, Python, VB 
+
+    PCB Design, Solidwork 3D CAD
+    CAN-BUS,  RS485, RS232, Basic PLC
+    GPS, RTK, 2G, 3G, 4G, 5G
+    Bluetooh, BLE4.0 , BLE5.0 , BLE low energy
+    Raspberry Pi Arduino ESP32 ESP8266
+    MQTT 
+
+DEVOPS
+    GitHub, Gitlab 
+    Google cloud, AWS digitalOcean
+    Firebase
+    App store
+    Play store
+    LINE DEV 
+
+Additional Abilities
+    Guitar, Base 
+    Welding steel MMA TIG MIG
+    Car painting 2K
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/C4psL0cks?tab=repositories)

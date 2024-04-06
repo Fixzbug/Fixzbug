@@ -28,12 +28,12 @@ FRONT-END
     Jquery
 
 BACK-END
-    PHP, 
-    Node.js, 
+    PHP
+    Node.js
     TypeScrtip 
 
 DATABASE 
-    MongoDB, 
+    MongoDB
     MYSQL 
 
 MOBILE APP
@@ -42,12 +42,12 @@ MOBILE APP
     Android, iOS
 
 NETWORK SKILLS
-    Config Router, Switch 
+    Config Router
+    Switch 
     Design LAN/WAN Wi-Fi
 
 EMBEDDED SKILLS
     C, C++, C#, Python, VB 
-
     PCB Design, Solidwork 3D CAD
     CAN-BUS,  RS485, RS232, Basic PLC
     GPS, RTK, 2G, 3G, 4G, 5G

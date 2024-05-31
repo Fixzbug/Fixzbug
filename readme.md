@@ -20,18 +20,18 @@
 
 # Skills
 
-| CATEGORY           | SKILLS                                                                                     |
-|--------------------|--------------------------------------------------------------------------------------------|
-| 📌 FRONT-END       | Vue.js, Angular, React.js, HTML 5, CSS (Bootstrap 4, 5), Sass, JavaScript, Jquery          |
-| 📌 BACK-END        | PHP, Node.js, TypeScript                                                                   |
-| 📌 DATABASE        | MongoDB, MySQL                                                                             |
-| 📌 MOBILE APP      | Ionic Framework (Vue.js, Angular), Android, iOS                                            |
-| 📌 NETWORK SKILLS  | Config Router, Switch, Design LAN/WAN, Wi-Fi                                               |
-| 📌 EMBEDDED SKILLS | C, C++, C#, Python, VB, PCB Design, Solidwork 3D CAD, CAN-BUS, RS485, RS232, Basic PLC,    |
-|                    | GPS, RTK, 2G, 3G, 4G, 5G, Bluetooth, BLE 4.0, BLE 5.0, BLE Low Energy, Raspberry Pi,       |
-|                    | Arduino, ESP32, ESP8266, MQTT                                                              |
-| 📌 DEVOPS          | GitHub, GitLab, Google Cloud, AWS, DigitalOcean, Firebase, App Store, Play Store, LINE Dev |
-| 📌 ADDITIONAL ABILITIES | Guitar, Bass, Welding Steel (MMA, TIG, MIG), Car Painting (2K)                      |
+| CATEGORY                | SKILLS                                                                                     |
+|-------------------------|--------------------------------------------------------------------------------------------|
+| 🌐 FRONT-END            | Vue.js, Angular, React.js, HTML 5, CSS (Bootstrap 4, 5), Sass, JavaScript, Jquery          |
+| 💻 BACK-END             | PHP, Node.js, TypeScript                                                                   |
+| 🗄️ DATABASE             | MongoDB, MySQL                                                                             |
+| 📱 MOBILE APP           | Ionic Framework (Vue.js, Angular), Android, iOS                                            |
+| 🌐 NETWORK SKILLS       | Config Router, Switch, Design LAN/WAN, Wi-Fi                                               |
+| 🔌 EMBEDDED SKILLS      | C, C++, C#, Python, VB, PCB Design, Solidwork 3D CAD, CAN-BUS, RS485, RS232, Basic PLC,    |
+|                         | GPS, RTK, 2G, 3G, 4G, 5G, Bluetooth, BLE 4.0, BLE 5.0, BLE Low Energy, Raspberry Pi,       |
+|                         | Arduino, ESP32, ESP8266, MQTT                                                              |
+| ⚙️ DEVOPS               | GitHub, GitLab, Google Cloud, AWS, DigitalOcean, Firebase, App Store, Play Store, LINE Dev |
+| 🎸 ADDITIONAL ABILITIES | Guitar, Bass, Welding Steel (MMA, TIG, MIG), Car Painting (2K)                             |
 
 
 

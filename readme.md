@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Makerz</h1>
 <h3 align="center">Makerz → Share More, Learn More ! IT | Maker | DIY | STARTUP</h3>
 
-- 🔭 My resume PDF [https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf)
+- 💻 My resume PDF [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf)
+-
+- 💻 I’m currently working on **Makerz Lab**
 
-- 🔭 I’m currently working on **Makerz Lab**
+- 👨‍💻 All of my projects are available at [Mysite](https://makerzcoding.com/me/public/)
 
-- 👨‍💻 All of my projects are available at [https://makerzcoding.com/me/public/](https://makerzcoding.com/me/public/)
-
-- 📝 I regularly write articles on [https://medium.com/educate](https://medium.com/educate)
+- 📝 I regularly write articles on [Medium](https://medium.com/educate)
 
 - 💬 Ask me about **Full stack developer**
 

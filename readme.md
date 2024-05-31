@@ -20,19 +20,11 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
-<table>
-  <tr>
-    <td>
-
+<table><tr><td>
 <a href="https://github.com/Fixzbug?tab=repositories"><img  align="left" src="https://github-profile-trophy.vercel.app/?username=Fixzbug&column=8&margin-w=15&margin-h=15" alt="Fixzbug"></a>
-
-    </td>
-    <td>
-
+</td><td>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Fixzbug&show_icons=true&locale=en" alt="Fixzbug">
-
-    </td>
-  </tr>
+</td></tr>
 </table>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)

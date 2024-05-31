@@ -1,4 +1,5 @@
-<img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
+<img align ="center" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*h5Zs-8nFcTrgR1UceyKYXA.png">
+<!-- <img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax"> -->
 <h1 align="center">Hi 👋, I'm Makerz</h1>
 <h3 align="center">Makerz → Share More, Learn More ! IT | Maker | DIY | STARTUP</h3>
 

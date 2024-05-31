@@ -3,17 +3,18 @@
 <h1 align="center">Hi 👋, I'm Makerz</h1>
 <h3 align="center">Makerz → Share More, Learn More ! IT | Maker | DIY | STARTUP</h3>
 
-- 💻 My resume PDF [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf)
--
-- 💻 I’m currently working on **Makerz Lab**
 
-- 👨‍💻 All of my projects are available at [Mysite](https://makerzcoding.com/me/public/)
+- 💻 I’m currently working on **Easybuy** QA Automate tester Robot Rramework
+
+- 🛠 All of my projects are available at [Mysite](https://makerzcoding.com/me/public/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/educate)
 
 - 💬 Ask me about **Full stack developer**
 
 - 📫 How to reach me **makerz03795@hotmail.com, makerzid@gmail.com**
+
+- 💻 My resume PDF [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf)
 
 - 📄 Know about my experiences [Full stack developer and IT professional with over 4 years of experience]
 

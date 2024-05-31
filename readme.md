@@ -34,16 +34,17 @@
 
 | Category               | Skills                                                                                     |
 |------------------------|--------------------------------------------------------------------------------------------|
-| 🌐 Front-end           | Vue.js, Angular, React.js, HTML 5, CSS (Bootstrap 4, 5), Sass, JavaScript, Jquery          |
-| 💻 Back-end            | PHP, Node.js, TypeScript                                                                   |
-| 🗄️ Database            | MongoDB, MySQL                                                                             |
-| 📱 Mobile app          | Ionic Framework (Vue.js, Angular), Android, iOS                                            |
+| 🌐 Front-end           | React.js, Vue.js, Angular, HTML5, CSS (Bootstrap 4, 5), Sass, JavaScript, jQuery           |
+| 💻 Back-end            | PHP, Node.js                                                                               |
+| 🗄️ Database            | MongoDB, MySQL                                                                              |
+| 📱 Mobile app          | Ionic Framework (Vue.js, Angular), Android, iOS  , Flutter                                  |
 | 🌐 Network skills      | Config Router, Switch, Design LAN/WAN, Wi-Fi                                               |
-| 🔌 Embedded skills     | C, C++, C#, Python, VB, PCB Design, Solidwork 3D CAD, CAN-BUS, RS485, RS232, Basic PLC,    |
-|                        | GPS, RTK, 2G, 3G, 4G, 5G, Bluetooth, BLE 4.0, BLE 5.0, BLE Low Energy, Raspberry Pi,       |
+| 🔌 Embedded skills     | C, C++, C#, Python, VB, PCB Design, SolidWorks 3D CAD, CAN-BUS, RS485, RS232, Basic PLC,   |
+|                        | GPS (Normal ACC), RTK (High ACC), 4G, 5G, Bluetooth, BLE 4.0, BLE 5.0, BLE Low Energy, Raspberry Pi,       |
 |                        | Arduino, ESP32, ESP8266, MQTT                                                              |
-| ⚙️ Devops              | GitHub, GitLab, Google Cloud, AWS, DigitalOcean, Firebase, App Store, Play Store, LINE Dev |
-| 🎸 Additional abilities | Guitar, Bass, Welding Steel (MMA, TIG, MIG), Car Painting (2K)                             |
+| ⚙️ DevOps              | GitHub, GitLab, Google Cloud, AWS Cloud, DigitalOcean Cloud, Firebase, App Store, Play Store, LINE Dev, twilio |
+| 🎸 Additional abilities| Guitar, Bass, Welding Steel (MMA, TIG, MIG), Car Painting (2K)                             |
+         |
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)

@@ -3,20 +3,19 @@
 <h1 align="center">Hi 👋, I'm Makerz</h1>
 <h3 align="center">Makerz → Share More, Learn More ! IT | Maker | DIY | STARTUP</h3>
 
+- 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ **ᴇᴀꜱʏʙᴜʏ** ǫᴀ ᴀᴜᴛᴏᴍᴀᴛᴇ ᴛᴇꜱᴛᴇʀ ʀᴏʙᴏᴛ ʀʀᴀᴍᴇᴡᴏʀᴋ
 
-- 💻 I’m currently working on **Easybuy** QA Automate tester Robot Rramework
+- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ**
 
-- 💬 Ask me about **Full stack developer**
+- 🛠 ᴀʟʟ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀᴛ [Mysite](https://makerzcoding.com/me/public/)
 
-- 🛠 All of my projects are available at [Mysite](https://makerzcoding.com/me/public/)
+- 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [Medium](https://medium.com/educate)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/educate)
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **makerz03795@hotmail.com, makerzid@gmail.com**
 
-- 📫 How to reach me **makerz03795@hotmail.com, makerzid@gmail.com**
+- 💻 ᴍʏ ʀᴇꜱᴜᴍᴇ ᴘᴅꜰ [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf)
 
-- 💻 My resume PDF [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf)
-
-- 📄 Know about my experiences [Full stack developer and IT professional with over 4 years of experience]
+- 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ [ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ɪᴛ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴡɪᴛʜ ᴏᴠᴇʀ 4 ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ]
 
 <!-- [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 

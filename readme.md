@@ -20,12 +20,13 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
-<a href="https://github.com/Fixzbug?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=Fixzbug&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
+<a href="https://github.com/Fixzbug?tab=repositories"><img  align="left" src="https://github-profile-trophy.vercel.app/?username=Fixzbug&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Fixzbug&show_icons=true&locale=en" alt="basemax">
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Fixzbug&show_icons=true&locale=en" alt="basemax">
 
 
 # Skills

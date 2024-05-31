@@ -29,6 +29,8 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories) -->
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
+
 # Skills
 
 | Category               | Skills                                                                                     |
@@ -44,8 +46,11 @@
 | ⚙️ Devops              | GitHub, GitLab, Google Cloud, AWS, DigitalOcean, Firebase, App Store, Play Store, LINE Dev |
 | 🎸 Additional abilities | Guitar, Bass, Welding Steel (MMA, TIG, MIG), Car Painting (2K)                             |
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Fixzbug&show_icons=true&locale=en" alt="Fixzbug">
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fixzbug&show_icons=true&locale=en" alt="Fixzbug">
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/c4psl0ckz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="c4psl0ckz" height="30" width="40" /></a>

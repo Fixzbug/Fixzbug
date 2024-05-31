@@ -18,6 +18,16 @@
 
 - 📄 Know about my experiences [Full stack developer and IT professional with over 4 years of experience]
 
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
+
+<a href="https://github.com/Fixzbug?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=Fixzbug&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Fixzbug&show_icons=true&locale=en" alt="basemax">
+
+
 # Skills
 
 | Category               | Skills                                                                                     |
@@ -32,17 +42,6 @@
 |                        | Arduino, ESP32, ESP8266, MQTT                                                              |
 | ⚙️ Devops              | GitHub, GitLab, Google Cloud, AWS, DigitalOcean, Firebase, App Store, Play Store, LINE Dev |
 | 🎸 Additional abilities | Guitar, Bass, Welding Steel (MMA, TIG, MIG), Car Painting (2K)                             |
-
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
-
-<a href="https://github.com/Fixzbug?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=Fixzbug&column=8&margin-w=15&margin-h=15" alt="basemax"></a>
-
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fixzbug&show_icons=true&locale=en" alt="basemax">
 
 
 <h3 align="left">Connect with me:</h3>

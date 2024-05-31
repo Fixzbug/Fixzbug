@@ -4,19 +4,19 @@
 <h3 align="center">Makerz → Share More, Learn More ! IT | Maker | DIY | STARTUP</h3>
 
 
-- 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ **ᴇᴀꜱʏʙᴜʏ** ǫᴀ ᴀᴜᴛᴏᴍᴀᴛᴇ ᴛᴇꜱᴛᴇʀ ʀᴏʙᴏᴛ ʀʀᴀᴍᴇᴡᴏʀᴋ
+- 💻 I’m currently working on **Easybuy** QA Automate tester Robot Rramework
 
-- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ**
+- 💬 Ask me about **Full stack developer**
 
-- 🛠 ᴀʟʟ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀᴛ [ᴍʏꜱɪᴛᴇ](ʜᴛᴛᴘꜱ://ᴍᴀᴋᴇʀᴢᴄᴏᴅɪɴɢ.ᴄᴏᴍ/ᴍᴇ/ᴘᴜʙʟɪᴄ/)
+- 🛠 All of my projects are available at [Mysite](https://makerzcoding.com/me/public/)
 
-- 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [ᴍᴇᴅɪᴜᴍ](ʜᴛᴛᴘꜱ://ᴍᴇᴅɪᴜᴍ.ᴄᴏᴍ/ᴇᴅᴜᴄᴀᴛᴇ)
+- 📝 I regularly write articles on [Medium](https://medium.com/educate)
 
-- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **ᴍᴀᴋᴇʀᴢ03795@ʜᴏᴛᴍᴀɪʟ.ᴄᴏᴍ, ᴍᴀᴋᴇʀᴢɪᴅ@ɢᴍᴀɪʟ.ᴄᴏᴍ**
+- 📫 How to reach me **makerz03795@hotmail.com, makerzid@gmail.com**
 
-- 💻 ᴍʏ ʀᴇꜱᴜᴍᴇ ᴘᴅꜰ [ʀᴇꜱᴜᴍᴇ](ʜᴛᴛᴘꜱ://ᴡᴡᴡ.ᴍᴀᴋᴇʀᴢᴄᴏᴅɪɴɢ.ᴄᴏᴍ/ᴍᴀᴋᴇʀᴢᴍᴇ/ᴘᴜʙʟɪᴄ/ᴅᴏᴄꜱ/ᴄʜᴀɴᴏᴋ%20ᴡᴏɴɢᴛʜɪɴᴘᴀ%20ʀᴇꜱᴜᴍᴇ%20ɴᴇᴡ.ᴘᴅꜰ)
+- 💻 My resume PDF [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf)
 
-- 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ [ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ɪᴛ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴡɪᴛʜ ᴏᴠᴇʀ 4 ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ]
+- 📄 Know about my experiences [Full stack developer and IT professional with over 4 years of experience]
 
 <!-- [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
@@ -31,21 +31,20 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
-# ꜱᴋɪʟʟꜱ
+# Skills
 
-| ᴄᴀᴛᴇɢᴏʀʏ               | ꜱᴋɪʟʟꜱ                                                                                     |
+| Category               | Skills                                                                                     |
 |------------------------|--------------------------------------------------------------------------------------------|
-| 🌐 ꜰʀᴏɴᴛ-ᴇɴᴅ           | ᴠᴜᴇ.ᴊꜱ, ᴀɴɢᴜʟᴀʀ, ʀᴇᴀᴄᴛ.ᴊꜱ, ʜᴛᴍʟ 5, ᴄꜱꜱ (ʙᴏᴏᴛꜱᴛʀᴀᴘ 4, 5), ꜱᴀꜱꜱ, ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ᴊǫᴜᴇʀʏ          |
-| 💻 ʙᴀᴄᴋ-ᴇɴᴅ            | ᴘʜᴘ, ɴᴏᴅᴇ.ᴊꜱ, ᴛʏᴘᴇꜱᴄʀɪᴘᴛ                                                                   |
-| 🗄️ ᴅᴀᴛᴀʙᴀꜱᴇ            | ᴍᴏɴɢᴏᴅʙ, ᴍʏꜱǫʟ                                                                             |
-| 📱 ᴍᴏʙɪʟᴇ ᴀᴘᴘ          | ɪᴏɴɪᴄ ꜰʀᴀᴍᴇᴡᴏʀᴋ (ᴠᴜᴇ.ᴊꜱ, ᴀɴɢᴜʟᴀʀ), ᴀɴᴅʀᴏɪᴅ, ɪᴏꜱ                                            |
-| 🌐 ɴᴇᴛᴡᴏʀᴋ ꜱᴋɪʟʟꜱ      | ᴄᴏɴꜰɪɢ ʀᴏᴜᴛᴇʀ, ꜱᴡɪᴛᴄʜ, ᴅᴇꜱɪɢɴ ʟᴀɴ/ᴡᴀɴ, ᴡɪ-ꜰɪ                                               |
-| 🔌 ᴇᴍʙᴇᴅᴅᴇᴅ ꜱᴋɪʟʟꜱ     | ᴄ, ᴄ++, ᴄ#, ᴘʏᴛʜᴏɴ, ᴠʙ, ᴘᴄʙ ᴅᴇꜱɪɢɴ, ꜱᴏʟɪᴅᴡᴏʀᴋ 3ᴅ ᴄᴀᴅ, ᴄᴀɴ-ʙᴜꜱ, ʀꜱ485, ʀꜱ232, ʙᴀꜱɪᴄ ᴘʟᴄ,    |
-|                        | ɢᴘꜱ, ʀᴛᴋ, 2ɢ, 3ɢ, 4ɢ, 5ɢ, ʙʟᴜᴇᴛᴏᴏᴛʜ, ʙʟᴇ 4.0, ʙʟᴇ 5.0, ʙʟᴇ ʟᴏᴡ ᴇɴᴇʀɢʏ, ʀᴀꜱᴘʙᴇʀʀʏ ᴘɪ,       |
-|                        | ᴀʀᴅᴜɪɴᴏ, ᴇꜱᴘ32, ᴇꜱᴘ8266, ᴍǫᴛᴛ                                                              |
-| ⚙️ ᴅᴇᴠᴏᴘꜱ              | ɢɪᴛʜᴜʙ, ɢɪᴛʟᴀʙ, ɢᴏᴏɢʟᴇ ᴄʟᴏᴜᴅ, ᴀᴡꜱ, ᴅɪɢɪᴛᴀʟᴏᴄᴇᴀɴ, ꜰɪʀᴇʙᴀꜱᴇ, ᴀᴘᴘ ꜱᴛᴏʀᴇ, ᴘʟᴀʏ ꜱᴛᴏʀᴇ, ʟɪɴᴇ ᴅᴇᴠ |
-| 🎸 ᴀᴅᴅɪᴛɪᴏɴᴀʟ ᴀʙɪʟɪᴛɪᴇꜱ | ɢᴜɪᴛᴀʀ, ʙᴀꜱꜱ, ᴡᴇʟᴅɪɴɢ ꜱᴛᴇᴇʟ (ᴍᴍᴀ, ᴛɪɢ, ᴍɪɢ), ᴄᴀʀ ᴘᴀɪɴᴛɪɴɢ (2ᴋ)                             |
-
+| 🌐 Front-end           | Vue.js, Angular, React.js, HTML 5, CSS (Bootstrap 4, 5), Sass, JavaScript, Jquery          |
+| 💻 Back-end            | PHP, Node.js, TypeScript                                                                   |
+| 🗄️ Database            | MongoDB, MySQL                                                                             |
+| 📱 Mobile app          | Ionic Framework (Vue.js, Angular), Android, iOS                                            |
+| 🌐 Network skills      | Config Router, Switch, Design LAN/WAN, Wi-Fi                                               |
+| 🔌 Embedded skills     | C, C++, C#, Python, VB, PCB Design, Solidwork 3D CAD, CAN-BUS, RS485, RS232, Basic PLC,    |
+|                        | GPS, RTK, 2G, 3G, 4G, 5G, Bluetooth, BLE 4.0, BLE 5.0, BLE Low Energy, Raspberry Pi,       |
+|                        | Arduino, ESP32, ESP8266, MQTT                                                              |
+| ⚙️ Devops              | GitHub, GitLab, Google Cloud, AWS, DigitalOcean, Firebase, App Store, Play Store, LINE Dev |
+| 🎸 Additional abilities | Guitar, Bass, Welding Steel (MMA, TIG, MIG), Car Painting (2K)                             |
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)

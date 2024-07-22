@@ -11,9 +11,9 @@
 
 - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [Medium](https://medium.com/educate)
 
-- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **makerz03795@hotmail.com, makerzid@gmail.com**
+- 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **makerzid@gmail.com**
 
-- 💻 ᴍʏ ʀᴇꜱᴜᴍᴇ ᴘᴅꜰ [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf)
+<!-- - 💻 ᴍʏ ʀᴇꜱᴜᴍᴇ ᴘᴅꜰ [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf) -->
 
 - 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ [ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ɪᴛ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴡɪᴛʜ ᴏᴠᴇʀ 4 ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ]
 

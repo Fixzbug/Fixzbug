@@ -32,18 +32,17 @@
 
 # Skills
 
-| Category               | Skills                                                                                     |
-|------------------------|--------------------------------------------------------------------------------------------|
-| 🌐 Front-end           | React.js, Vue.js, Angular, HTML5, CSS (Bootstrap 4, 5), Sass, JavaScript, jQuery           |
-| 💻 Back-end            | PHP, Node.js                                                                               |
-| 🗄️ Database            | MongoDB, MySQL                                                                              |
-| 📱 Mobile app          | Ionic Framework (Vue.js, Angular), Android, iOS  , Flutter                                  |
-| 🌐 Network skills      | Config Router, Switch, Design LAN/WAN, Wi-Fi                                               |
-| 🔌 Embedded skills     | C, C++, C#, Python, VB, PCB Design, SolidWorks 3D CAD, CAN-BUS, RS485, RS232, Basic PLC,   |
-|                        | GPS (Normal ACC), RTK (High ACC), 4G, 5G, Bluetooth, BLE 4.0, BLE 5.0, BLE Low Energy, Raspberry Pi,       |
-|                        | Arduino, ESP32, ESP8266, MQTT                                                              |
-| ⚙️ DevOps              | GitHub, GitLab, Google Cloud, AWS Cloud, DigitalOcean Cloud, Firebase, App Store, Play Store, LINE Dev, twilio |
-| 🎸 Additional abilities| Guitar, Bass, Welding Steel (MMA, TIG, MIG)                                                |
+| Category                | Skills                                                                                       |
+|-------------------------|----------------------------------------------------------------------------------------------|
+| 🌐 **Front-end**        | React.js, Vue.js, Angular, HTML5, CSS, JavaScript, jQuery                                    |
+| 💻 **Back-end**         | PHP, Node.js, Java, Java Spring Boot                                                         |
+| 🗄️ **Database**         | MongoDB, MySQL, PostgreSQL                                                                   |
+| 📱 **Mobile app**       | Ionic Framework (Vue.js, Angular), React, PWA, Android, iOS, Flutter                         |
+| 🔌 **Embedded skills**  | C, C++, C#, Python, VB, PLC, CAN-BUS, Communication RS232, RS485, GPS, RTK (High ACC), Embedded Module 4G, 5G, Embedded Bluetooth, BLE 4.0, 5.0, Raspberry Pi, Arduino (IDE, Platform.io), ESP32 (Flasher), Cloud MQTT |
+| 🌐 **Network skills**   | Config Router, Config Switch, Design LAN/WAN, Wi-Fi, Understand Network IP                   |
+| 🎨 **3D Skills**        | Kidcad, Eagle Autodesk Designer PCB, SolidWorks 3D CAD, Altium Designer PCB                  |
+| ⚙️ **DevOps**           | GitHub, GitLab, Docker, Jenkins, Google Cloud, AWS Cloud, DigitalOcean Cloud, Firebase, App Store, Play Store, LINE Dev, Twilio |
+
 
 
 

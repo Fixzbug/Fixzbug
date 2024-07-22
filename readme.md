@@ -37,7 +37,8 @@
 |-------------------------|----------------------------------------------------------------------------------------------|
 | **Front-end**        | React.js, Vue.js, Angular, HTML5, CSS, JavaScript, jQuery                                    |
 | **Back-end**         | PHP, Node.js, Java, Java Spring Boot                                                         |
-| **QA/UAT**           | Robot framework, Playwright                                                                  |
+| **QA/UAT**           | Postman, Swagger API ,ngrok, Netlify,
+Robot framework, Playwright                                                                  |
 | **Database**         | MongoDB, MySQL, PostgreSQL                                                                   |
 | **Mobile app**       | Ionic Framework (Vue.js, Angular), React, PWA, Android, iOS, Flutter                         |
 | **Embedded**  | IoT, C, C++, C#, Python, VB, PLC, CAN-BUS, Communication RS232, RS485, GPS, RTK (High ACC), Embedded Module 4G, 5G, Embedded Bluetooth, BLE 4.0, 5.0, Raspberry Pi, Arduino (IDE, Platform.io), ESP32 (Flasher), Cloud MQTT, Matlab, Matlab Simulink |

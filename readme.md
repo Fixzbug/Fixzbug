@@ -35,15 +35,15 @@
 
 | Category                | Skills                                                                                       |
 |-------------------------|----------------------------------------------------------------------------------------------|
-| 🌐 **Front-end**        | React.js, Vue.js, Angular, HTML5, CSS, JavaScript, jQuery                                    |
-| 💻 **Back-end**         | PHP, Node.js, Java, Java Spring Boot                                                         |
-| 🎨 **QA/UAT**           | Robot framework, Playwright                                                                  |
-| 🗄️ **Database**         | MongoDB, MySQL, PostgreSQL                                                                   |
-| 📱 **Mobile app**       | Ionic Framework (Vue.js, Angular), React, PWA, Android, iOS, Flutter                         |
-| 🔌 **Embedded**  | IoT, C, C++, C#, Python, VB, PLC, CAN-BUS, Communication RS232, RS485, GPS, RTK (High ACC), Embedded Module 4G, 5G, Embedded Bluetooth, BLE 4.0, 5.0, Raspberry Pi, Arduino (IDE, Platform.io), ESP32 (Flasher), Cloud MQTT, Matlab, Matlab Simulink |
-| ⚙️ **DevOps**           | GitHub, GitLab, Docker, Jenkins, Google Cloud, AWS Cloud, DigitalOcean Cloud, Firebase, App Store, Play Store, LINE Dev, Twilio |
-| 🌐 **Network**   | Config Router, Config Switch, Design LAN/WAN, Wi-Fi, Understand Network IP                   |
-| 🎨 **3D**        | Kidcad, Eagle Autodesk Designer PCB, SolidWorks 3D CAD, Altium Designer PCB                  |
+| **Front-end**        | React.js, Vue.js, Angular, HTML5, CSS, JavaScript, jQuery                                    |
+| **Back-end**         | PHP, Node.js, Java, Java Spring Boot                                                         |
+| **QA/UAT**           | Robot framework, Playwright                                                                  |
+| **Database**         | MongoDB, MySQL, PostgreSQL                                                                   |
+| **Mobile app**       | Ionic Framework (Vue.js, Angular), React, PWA, Android, iOS, Flutter                         |
+| **Embedded**  | IoT, C, C++, C#, Python, VB, PLC, CAN-BUS, Communication RS232, RS485, GPS, RTK (High ACC), Embedded Module 4G, 5G, Embedded Bluetooth, BLE 4.0, 5.0, Raspberry Pi, Arduino (IDE, Platform.io), ESP32 (Flasher), Cloud MQTT, Matlab, Matlab Simulink |
+| **DevOps**           | GitHub, GitLab, Docker, Jenkins, Google Cloud, AWS Cloud, DigitalOcean Cloud, Firebase, App Store, Play Store, LINE Dev, Twilio |
+| **Network**   | Config Router, Config Switch, Design LAN/WAN, Wi-Fi, Understand Network IP                   |
+| **3D**        | Kidcad, Eagle Autodesk Designer PCB, SolidWorks 3D CAD, Altium Designer PCB                  |
 
 
 

@@ -43,8 +43,8 @@
 |                        | GPS (Normal ACC), RTK (High ACC), 4G, 5G, Bluetooth, BLE 4.0, BLE 5.0, BLE Low Energy, Raspberry Pi,       |
 |                        | Arduino, ESP32, ESP8266, MQTT                                                              |
 | ⚙️ DevOps              | GitHub, GitLab, Google Cloud, AWS Cloud, DigitalOcean Cloud, Firebase, App Store, Play Store, LINE Dev, twilio |
-| 🎸 Additional abilities| Guitar, Bass, Welding Steel (MMA, TIG, MIG), Car Painting (2K)                             |
-         |
+| 🎸 Additional abilities| Guitar, Bass, Welding Steel (MMA, TIG, MIG)                                                |
+
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)

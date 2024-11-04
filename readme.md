@@ -7,17 +7,13 @@
 
 - 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ**
 
-- 🛠 ᴀʟʟ ᴏꜰ ᴍʏ ᴘʀᴏᴊᴇᴄᴛꜱ ᴀʀᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴀᴛ [Mysite](https://makerzcoding.com/me/public/)
-
 - 📝 ɪ ʀᴇɢᴜʟᴀʀʟʏ ᴡʀɪᴛᴇ ᴀʀᴛɪᴄʟᴇꜱ ᴏɴ [Medium](https://medium.com/educate)
 
 - 📫 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ **makerzid@gmail.com**
 
-<!-- - 💻 ᴍʏ ʀᴇꜱᴜᴍᴇ ᴘᴅꜰ [Resume](https://www.makerzcoding.com/makerzme/public/docs/Chanok%20Wongthinpa%20resume%20new.pdf) -->
-
 - 📄 ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴍʏ ᴇxᴘᴇʀɪᴇɴᴄᴇꜱ [ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ɪᴛ ᴘʀᴏꜰᴇꜱꜱɪᴏɴᴀʟ ᴡɪᴛʜ ᴏᴠᴇʀ 4 ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ]
 
-<!-- [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
 <table><tr><td>
 <a href="https://github.com/Fixzbug?tab=repositories"><img  align="left" src="https://github-profile-trophy.vercel.app/?username=Fixzbug&column=8&margin-w=15&margin-h=15" alt="Fixzbug"></a>
@@ -26,7 +22,7 @@
 </td></tr>
 </table>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories) -->
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
 

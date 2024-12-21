@@ -1,4 +1,4 @@
-<img align ="center" width="300" height="200" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*h5Zs-8nFcTrgR1UceyKYXA.png">
+<img align ="center" width="100%" height="300" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*h5Zs-8nFcTrgR1UceyKYXA.png">
 <h1 align="center">Hi 👋, I'm Makerz</h1>
 <h3 align="center">Share More, Learn More ! | Maker</h3>
 

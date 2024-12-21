@@ -29,18 +29,17 @@
 # Skills
 
 
-| Category                | Skills                                                                                       |
-|-------------------------|----------------------------------------------------------------------------------------------|
-| **Front-end**        | React.js, Vue.js, Angular, HTML5, CSS, JavaScript, jQuery                                    |
-| **Back-end**         | PHP, Node.js, Java Spring Boot                                                         |
-| **QA/UAT**           | Postman, Swagger API, Netlify, Robot framework, Playwright                                                                  |
-| **Database**         | MongoDB, MySQL, PostgreSQL                                                                   |
-| **Mobile app**       | Ionic Framework (Vue.js, Angular), React, PWA, Android, iOS, Flutter                         |
-| **Embedded**  | IoT, C, C++, C#, Python, VB, PLC, CAN-BUS, Communication RS232, RS485, GPS, RTK (High ACC), Embedded Module 4G, 5G, Embedded Bluetooth, BLE 4.0, 5.0, Raspberry Pi, Arduino (IDE, Platform.io), ESP32 (Flasher), Cloud MQTT, Matlab, Matlab Simulink |
-| **DevOps**           | GitHub, GitLab, Docker, Jenkins, Google Cloud, AWS Cloud, DigitalOcean Cloud, Firebase, App Store, Play Store, LINE Dev, Twilio |
-| **Network**   | Config Router, Config Switch, Design LAN/WAN, Wi-Fi, Understand Network IP                   |
-| **3D**        | Kidcad, Eagle Autodesk Designer PCB, SolidWorks 3D CAD, Altium Designer PCB                  |
-
+| **Category**          | **Expertise**                                                                                              |
+|-----------------------|----------------------------------------------------------------------------------------------------------|
+| **Front-end Development** | React, Vue, Angular                                                                                      |
+| **Back-end Development** | PHP, Node.js, Java                                                                                       |
+| **Quality Assurance & Testing** | Robot Framework, Playwright, Cypress, Postman, Swagger API , FastAPI                                               |
+| **Database Management** | MongoDB, MySQL, PostgreSQL                                                                                |
+| **Mobile Application Development** | Ionic Framework, React Native, Flutter, Progressive Web Apps (PWA)                                       |
+| **DevOps & Cloud Computing** | GitHub, GitLab, Docker, Jenkins, Google Cloud, AWS Cloud, DigitalOcean, Firebase, App Store, Play Store, LINE API, Twilio |
+| **Network Engineering** | Router Configuration, Switch Configuration, LAN/WAN Design, Wi-Fi, Network IP Management                     |
+| **Embedded Systems** | IoT solutions, CAN-BUS, RS232/RS485, C/C++/Python, GPS, RTK, 4G/5G, Bluetooth/BLE, Raspberry Pi, Arduino, ESP32, MQTT, Matlab, Simulink. |
+| **3D Design & PCB Development** | KiCad, Eagle Autodesk PCB Designer, SolidWorks 3D CAD, Altium Designer PCB                              |
 
 
 

@@ -1,7 +1,6 @@
-<img align ="center" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*h5Zs-8nFcTrgR1UceyKYXA.png">
-<!-- <img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax"> -->
+<img align ="center" width="300" height="200" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*h5Zs-8nFcTrgR1UceyKYXA.png">
 <h1 align="center">Hi 👋, I'm Makerz</h1>
-<h3 align="center">Share More, Learn More ! IT | Maker</h3>
+<h3 align="center">Share More, Learn More ! | Maker</h3>
 
 - 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ **ᴇᴀꜱʏʙᴜʏ** ǫᴀ ᴀᴜᴛᴏᴍᴀᴛᴇ ᴛᴇꜱᴛᴇʀ ʀᴏʙᴏᴛ ʀʀᴀᴍᴇᴡᴏʀᴋ
 

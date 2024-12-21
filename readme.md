@@ -1,10 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Makerz</h1>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
+
 <h3 align="center">Share More, Learn More ! | Maker</h3>
 
-- 💻 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ **ᴇᴀꜱʏʙᴜʏ** ǫᴀ ᴀᴜᴛᴏᴍᴀᴛᴇ ᴛᴇꜱᴛᴇʀ ʀᴏʙᴏᴛ ʀʀᴀᴍᴇᴡᴏʀᴋ
 
-- 💬 ᴀꜱᴋ ᴍᴇ ᴀʙᴏᴜᴛ **ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ**
+- 💻 I’m currently working on **EasyBuy** **QA Automate Tester**
+
+- 💬 Feel free to ask me about being a **Full Stack Developer** and **QA Automate Tester**.
 
 
 <!-- [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)

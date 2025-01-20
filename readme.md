@@ -26,7 +26,7 @@
 
 | **Category**          | **Expertise**                                                                                              |
 |-----------------------|----------------------------------------------------------------------------------------------------------|
-| **Front-end Development** | React, Vue, Angular                                                                                      |
+| **Front-end Development** | Next, Nuxt, React, Vue, Angular                                                                                      |
 | **Back-end Development** | PHP, Node.js, Java                                                                                       |
 | **Quality Assurance & Testing** | Robot Framework, Playwright, Cypress, Postman, Swagger API , FastAPI                                               |
 | **Database Management** | MongoDB, MySQL, PostgreSQL                                                                                |

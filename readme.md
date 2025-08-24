@@ -3,15 +3,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Makerz!;" />
 </h1>
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
-
 <h3 align="center">Share More, Learn More ! | Maker</h3>
 
+<div align="center">
+  
+💻 Passionate about software development, electronics, and open source.<br>
 
-- 💻 I’m currently working on **EasyBuy** **QA Automate Tester**
+🌱 Always learning, building, and exploring new technologies.<br>
 
-- 💬 Feel free to ask me about being a **Full Stack Developer** and **QA Automate Tester**.
+🤝 Open to collaborations and exciting side projects.<br>
+
+🎯 Goal: Contribute actively to impactful open-source communities.<br>
+
+</div>
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Fixzbug?tab=repositories)
